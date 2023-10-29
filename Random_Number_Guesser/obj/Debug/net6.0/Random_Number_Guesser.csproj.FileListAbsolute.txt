@@ -1,0 +1,14 @@
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\bin\Debug\net6.0\Random_Number_Guesser.exe
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\bin\Debug\net6.0\Random_Number_Guesser.deps.json
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\bin\Debug\net6.0\Random_Number_Guesser.runtimeconfig.json
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\bin\Debug\net6.0\Random_Number_Guesser.dll
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\bin\Debug\net6.0\Random_Number_Guesser.pdb
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.AssemblyInfoInputs.cache
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.AssemblyInfo.cs
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.csproj.CoreCompileInputs.cache
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.dll
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\refint\Random_Number_Guesser.dll
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.pdb
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\Random_Number_Guesser.genruntimeconfig.cache
+D:\programming\c#\simple application\C-simple-application\Random_Number_Guesser\obj\Debug\net6.0\ref\Random_Number_Guesser.dll
